@@ -157,7 +157,7 @@ h1{
 ![OUTPUT](./sum.png)
 
 ## HTML VALIDATOR:
-![HTML VALIDATOR](./sum val.png)
+![HTML VALIDATOR](./suml.png)
 
 ## RESULT:
 The program for executing simple calculator using javascript is executed successfully.

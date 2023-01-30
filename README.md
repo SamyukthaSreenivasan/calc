@@ -156,8 +156,6 @@ h1{
 ## OUTPUT:
 ![OUTPUT](./sum.png)
 
-## HTML VALIDATOR:
-![html validator](./saii.png)
 ## RESULT:
 The program for executing simple calculator using javascript is executed successfully.
 

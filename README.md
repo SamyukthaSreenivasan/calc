@@ -158,7 +158,6 @@ h1{
 
 ## HTML VALIDATOR:
 ![html validator](./valids.png)
-
 ## RESULT:
 The program for executing simple calculator using javascript is executed successfully.
 
